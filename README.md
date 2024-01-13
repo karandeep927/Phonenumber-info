@@ -7,14 +7,14 @@ The PhoneNumber-info tool is a simple and effective tool designed retrieve infor
 **User-Friendly Interface:** The tool offers an intuitive and easy-to-use interface, making it accessible to both technical and non-technical users.
 
 #**Prerequisites**
-Python 3.x installed on your system.
-Required libraries can be installed using the following command:
+Python 3.x installed on your system.\n
+Required libraries can be installed using the following command:\n
 pip install -r requirements.txt
 
 **Usage**
-Clone the repository to your local machine.
-Input the phone number you want to get information.
-View the results displayed on the console.
+Clone the repository to your local machine.\n
+Input the phone number you want to get information.\n
+View the results displayed on the console.\n
 
 
 
